@@ -1,0 +1,2 @@
+rootProject.name='Yorn Shake It'
+include ':app'
